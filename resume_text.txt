@@ -1,0 +1,31 @@
+PUGALARASAN L                                                                       
+B.Tech Artificial Intelligence and Data Science
+Karpagam College of Engineering
+Phone No : 9087550394 
+li848509@gmail.com
+Profiles : LinkedIn | GitHub | LeetCode | SalesForce                                                                                            17/08/2004
+
+SKILLS
+PROJECTS
+Vehicle Routing Problem Optimization using Genetic Algorithm                                                        [Feb 2025 – Mar 2025]
+Implemented a Genetic Algorithm using the DEAP library to solve the Vehicle Routing Problem, optimizing delivery paths through crossover, mutation, and selection techniques.
+Integrated logic from a Maze Solver to enhance shortest path discovery and computational efficiency.
+Delivered a scalable solution that reduced the overall transportation cost by 30% and improved the delivery time.
+
+Human Activity Recognition - Guided Project                                                                                     [Nov 2024 – Jan 2025]
+Processed sensor data using PCA for dimensionality reduction and applied K-Means for unsupervised grouping.
+Achieved 94% classification accuracy using Random Forest and SVM models with feature scaling and selection.
+Improved the model’s robustness by performing hyperparameter tuning using GridSearchCV and validating performance through cross-validation.
+
+Credit Card Fraud Detection                                                                                                                  [Feb 2024 – Mar 2024]
+Built a logistic regression model to classify fraudulent transactions from a real-world imbalanced dataset (~280K records), achieving 89.8% accuracy.
+Developed a complete web app with Django (backend) and Streamlit (frontend) to enable real-time fraud prediction.
+Enhanced fraud class detection through advanced data preprocessing, feature selection, and model evaluation techniques.
+CERTIFICATIONS
+Artificial Intelligence in Biomedical – Chemplus’23, IIT Madras Workshop                                                     [Nov 2023]
+Business Analyst Qualification – Qlik Certification                                                                                             [Oct 2024]
+Completed a 6-week Python Full Course (Beginner to Advanced) from GeeksforGeeks                                  [May 2025]
+Salesforce Agentblazer Champion & Innovator Badges Salesforce (Online)                                                        [Jul 2025]
+PERSONAL DETAILS
+Language Known : English, Tamil.
+Hobbies : Drawing, Playing games, Reading books.
