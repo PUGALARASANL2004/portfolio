@@ -1648,6 +1648,27 @@ section {
     font-size: 1rem;
 }
 
+.cert-hint {
+    margin-top: 0.5rem;
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.35rem;
+    opacity: 0.75;
+    transition: opacity var(--transition-base);
+}
+
+.cert-card:hover .cert-hint {
+    opacity: 1;
+    color: var(--primary-light);
+}
+
+.cert-hint i {
+    font-size: 0.65rem;
+}
+
 
 /* ===========================
    Contact Section
@@ -2050,6 +2071,22 @@ section {
     .floating-card i {
         font-size: 1rem;
     }
+
+    .container {
+        padding: 0 1rem;
+    }
+
+    .experience-item {
+        grid-template-columns: 1fr;
+    }
+
+    .experience-badge {
+        display: none;
+    }
+
+    .section-title {
+        font-size: 2rem;
+    }
 }
 
 @media (max-width: 480px) {
@@ -2058,6 +2095,14 @@ section {
     }
 
     .typing-text {
+        font-size: 1.2rem;
+    }
+
+    .hero-description {
+        font-size: 0.9rem;
+    }
+
+    .experience-role {
         font-size: 1.2rem;
     }
 
